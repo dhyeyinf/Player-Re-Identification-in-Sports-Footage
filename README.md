@@ -1,1 +1,0 @@
-# Player-Re-Identification-in-Sports-Footage
