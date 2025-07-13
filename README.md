@@ -172,3 +172,5 @@ The script (`player_tracking.py`) is modular and organized as follows:
 - **Colab-Specific Issues**: Ensure GPU runtime is enabled for faster processing, and re-upload files if sessions reset.
 
 For a detailed explanation of the approach, methodology, and challenges, refer to the accompanying report (`report.md`).
+
+I am pushing `.py`(For local - Slight modifiction needed) and `.ipynb`(For Colab - No modification needed, run it directly) code files in this repository to avoid any future confusion.
