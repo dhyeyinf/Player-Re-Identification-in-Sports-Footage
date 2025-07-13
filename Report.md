@@ -186,3 +186,4 @@ The focus was on building a robust, modular solution that balances accuracy and 
 ## References
 - Liu, T., et al. (2024). "Sports Video Analysis Using Deep Learning." *International Journal of Data Science and Analytics*. [https://link.springer.com/article/10.1007/s44196-024-00565-x](https://link.springer.com/article/10.1007/s44196-024-00565-x)
 - Mukherjee, A. (2022). "Tracking Football Players with YOLOv5 + ByteTrack." *Medium*. [https://medium.com/@amritangshu.mukherjee/tracking-football-players-with-yolov5-bytetrack-efa317c9aaa4](https://medium.com/@amritangshu.mukherjee/tracking-football-players-with-yolov5-bytetrack-efa317c9aaa4)
+- Kalman filters. [https://www.intechopen.com/chapters/63164](https://www.intechopen.com/chapters/63164)
