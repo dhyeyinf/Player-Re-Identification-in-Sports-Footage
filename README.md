@@ -1,4 +1,4 @@
-# Player Tracking and Re-Identification in a 15-Second Video
+# Player Re Identification in Sports Footage
 
 This project implements a solution for detecting and tracking players in a 15-second video clip (`15sec_input_720p.mp4`), ensuring consistent player identification even when players exit and re-enter the frame. The solution leverages the YOLOv8 object detection model for player detection and the SORT (Simple Online and Realtime Tracking) algorithm for tracking, with custom logic for re-identification based on spatial and size similarity.
 
