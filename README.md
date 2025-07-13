@@ -171,6 +171,6 @@ The script (`player_tracking.py`) is modular and organized as follows:
 - **Output Video Not Generated**: Check write permissions for `OUTPUT_PATH` and ensure `opencv-python-headless` is installed.
 - **Colab-Specific Issues**: Ensure GPU runtime is enabled for faster processing, and re-upload files if sessions reset.
 
-For a detailed explanation of the approach, methodology, and challenges, refer to the accompanying report (`report.md`).
+For a detailed explanation of the approach, methodology, and challenges, refer to the accompanying report (`Report.md`).
 
 I am pushing `.py`(For local - Slight modifiction needed) and `.ipynb`(For Colab - No modification needed, run it directly) code files in this repository to avoid any future confusion.
